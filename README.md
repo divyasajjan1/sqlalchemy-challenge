@@ -1,7 +1,7 @@
 # sqlalchemy-challenge
 SQLAlchemy module challenge
 
-Part 1: Analyze and Explore the Climate Data [climate_starter](C:\Users\divya\Documents\sqlalchemy-challenge\SurfsUp\climate_starter.ipynb)
+Part 1: Analyze and Explore the Climate Data [climate_starter](climate_starter.ipynb)
 
     Used the SQLAlchemy function to connect to the SQLite database.
     Used the SQLAlchemy automap_base() function to reflect the tables into classes, and then saved references to the classes named station and measurement.
@@ -23,7 +23,7 @@ Part 1: Analyze and Explore the Climate Data [climate_starter](C:\Users\divya\Do
 
     Closed the session.
 
-Part 2: Design Your Climate App [app.py](C:\Users\divya\Documents\sqlalchemy-challenge\SurfsUp\app.py)
+Part 2: Design Your Climate App [app.py](app.py)
 
     Designed a Flask API based on the previously developed queries.
     1. Listed all the available routes at the homepage (/).
